@@ -39,6 +39,7 @@ EduConnect/
 ├── vite.config.ts # Vite build config
 └── tsconfig.json # TypeScript configuration
 
+---
 
 ## Installation & Development
 
@@ -56,11 +57,16 @@ npm install
 npm run dev
 
 ```
+---
 
 ## License
 This project is open-source and available under the MIT License.
 
+---
+
 ## Author
 Developed by Nikhila Gogineni, Harshitha Sai Alokam , Niharika Goli
+
+---
 
 Feel free to connect and give feedback!
