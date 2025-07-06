@@ -57,10 +57,10 @@ npm run dev
 
 ```
 
-License
+## License
 This project is open-source and available under the MIT License.
 
-🙋‍♀️ Author
+## Author
 Developed by Nikhila Gogineni, Harshitha Sai Alokam , Niharika Goli
 
 Feel free to connect and give feedback!
