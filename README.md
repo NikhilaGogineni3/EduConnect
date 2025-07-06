@@ -2,15 +2,14 @@
 
 EduConnect is a modern, responsive web platform designed to bridge the gap between educators and learners. Built with modern technologies like Vite, TypeScript, and Tailwind CSS, this application provides a smooth and fast user experience.
 
-## 🌐 Live Demo
+## Live Demo
 
-👉 [Click here to view the live demo](https://your-live-demo-link.com)
+👉 [Click here to view the live demo](https://boisterous-tanuki-12b600.netlify.app/)
 
-> Replace the link above with your actual deployment link
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Vite** – Lightning-fast build tool
 - **TypeScript** – Type-safe JavaScript
@@ -19,7 +18,7 @@ EduConnect is a modern, responsive web platform designed to bridge the gap betwe
 
 ---
 
-## 🚀 Features
+## Features
 
 - Elegant and responsive UI
 - Fast loading using Vite
@@ -28,5 +27,40 @@ EduConnect is a modern, responsive web platform designed to bridge the gap betwe
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
+EduConnect/
+├── dist/ # Production-ready files
+├── node_modules/ # Dependencies
+├── src/ # Main source code (if applicable)
+├── index.html # Entry point HTML
+├── package.json # Project metadata and scripts
+├── tailwind.config.js # Tailwind CSS configuration
+├── vite.config.ts # Vite build config
+└── tsconfig.json # TypeScript configuration
+
+
+## Installation & Development
+
+To run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/educonnect.git
+cd educonnect/project
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+```
+
+License
+This project is open-source and available under the MIT License.
+
+🙋‍♀️ Author
+Developed by Nikhila Gogineni, Harshitha Sai Alokam , Niharika Goli
+
+Feel free to connect and give feedback!
